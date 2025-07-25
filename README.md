@@ -40,7 +40,7 @@ A PDF summary of the project and approach is available here:
 ➡️ [Download project-summary.pdf](./project-summary.pdf)
 
 ## 📌 Author
-**[Your Full Name]**  
+**Thanasis Zalachoris**  
 Master's Graduate – Digital Applications and Innovation  
 Power BI | Data Analysis | Decision Intelligence
 
