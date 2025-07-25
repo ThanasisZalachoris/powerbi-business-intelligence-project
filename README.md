@@ -15,14 +15,19 @@ The objective is to explore how advanced data visualization can support strategi
 - Insight delivery through visual storytelling
 - Real-time interaction and filtering
 
-## 📊 Screenshots
-Here’s a glimpse of the visual dashboards:
+### 🔹 Executive Overview
+![Exec Dashboard](./assets/Exec%20Dashboard.jpg)
 
-![Dashboard Overview](assets/dashboard-overview.png)
-![Insights Panel](assets/insights-panel.png)
-![KPI Highlights](assets/kpi-highlights.png)
+### 🔹 Customer Detail View
+![Customer Detail](./assets/Customer%20Detail.jpg)
 
-> 📁 More visuals can be found in the `assets/` folder.
+### 🔹 Product Detail View
+![Product Detail](./assets/Product%20Detail.jpg)
+
+### 🔹 Global Distribution Map
+![Map](./assets/Map.jpg)
+
+## 📄 Documentation
 
 ## 🧰 Tools Used
 - **Power BI Desktop**
