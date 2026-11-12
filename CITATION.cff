@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using the metadata below."
+title: "Power BI Business Intelligence Capstone Project"
+type: dataset
+authors:
+  - family-names: Zalachoris
+    given-names: Thanasis
+abstract: >-
+  Business intelligence capstone project developed at Ionian University,
+  demonstrating Power BI dashboards, data modelling, KPI analysis,
+  DAX and business data visualization.
+repository-code: "https://github.com/ThanasisZalachoris/powerbi-business-intelligence-project"
+license: CC-BY-4.0
